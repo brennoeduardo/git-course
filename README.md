@@ -1,1 +1,3 @@
-# Curso digital da Ada de Git
+# Curso digital da Ada de Git Santander/versionamento
+
+# Salvando alterações no Git
