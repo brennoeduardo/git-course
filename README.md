@@ -5,3 +5,5 @@
 * comando git push
 * git diff 
 * git fetch 
+* git restore
+* git checkout
