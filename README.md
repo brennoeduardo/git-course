@@ -1,1 +1,1 @@
-# git-course
+# Curso digital da Ada de Git
