@@ -1,0 +1,39 @@
+*{ 
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{ 
+    color: deepskyblue;
+    font-size: 1em;
+    background-color: beige;
+    font-weight: 400;
+}
+
+.bg{
+    height: 500px;
+    width: 100%;
+    background-color: blueviolet;
+    background-image: url(https://img.freepik.com/fotos-gratis/respingo-colorido-abstrato-3d-background-generativo-ai-background_60438-2509.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.boxes{ 
+
+    display: flex;
+    align-items: flex-start;
+    gap: 1px;
+    flex-wrap: wrap;
+}
+
+.quadrado{
+    background-color: blue;
+
+    width: 500px;
+    height: 100px;
+}
